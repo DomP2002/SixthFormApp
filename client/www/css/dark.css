@@ -12,7 +12,7 @@ body {
 	margin: 0;
 	padding: 0;
 	color: #080D0D;
-	background-color: #080D0D;
+	background-color: #41464F;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .menu {
-	background-color: #080D0D;
+	background-color: #41464F;
 	box-sizing: border-box;
 	margin-bottom: 3%;
 }
@@ -79,7 +79,7 @@ nav > ul > a > li, nav > ul > li {
 }
 
 .announcement {
-	border: 1px solid #080D0D;
+	border: 1px solid #FFFFFF;
 	border-radius: 0.5%;
 	padding: 2%;
 }
